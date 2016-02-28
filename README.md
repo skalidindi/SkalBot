@@ -26,7 +26,7 @@ A simple twitch chat bot for node.js.
 
 # Thanks
 Heavily influenced as a starting point:
-https://raw.githubusercontent.com/noobcola/ChillBot
+https://github.com/noobcola/ChillBot
 
 # License
 The MIT License (MIT)
