@@ -5,8 +5,17 @@ A simple twitch chat bot for node.js.
     - More features to come.
 
 ## Install
-
-WIP
+* Create a new twitch account with the username of your bot.
+* Go to settings -> connections -> Register your application
+  Follow steps on the page to get your client_id and client_secret.
+* Get an oAuth token from http://twitchapps.com/tmi/.
+* Copy `config.template.js` as `config.js` and update the properties with your
+  twitch credentials you got from the earlier steps.
+* Download and install the latest [npm](https://nodejs.org/en/download/)
+* Download this code or clone this repo with git
+* Navigate to the root on this project where package.json is located.
+* Run `npm install` followed by `npm run start`
+* Your bot should be up and running now!
 
 ## TODO
 * Update README with install directions.
