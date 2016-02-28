@@ -1,0 +1,14 @@
+#ignore build directories
+dist
+
+#ignore your own personal config file
+src/config.js
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Logs
+npm-debug.log*
